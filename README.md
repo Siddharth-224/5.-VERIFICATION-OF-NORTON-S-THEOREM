@@ -90,7 +90,3 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 Thus Thevenin's and Norton's theorem is verified practically and theoretically
 
-
-
-
-Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
