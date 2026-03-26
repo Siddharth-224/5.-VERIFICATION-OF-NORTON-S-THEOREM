@@ -44,14 +44,6 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 <img width="1599" height="1061" alt="image" src="https://github.com/user-attachments/assets/8520a559-2ff1-4c49-98ca-6f3b2b6ff9ab" />
 
-**TABULAR COLUMN:**
-
-<img width="847" height="1500" alt="image" src="https://github.com/user-attachments/assets/c12c6b1d-f937-4042-a7f2-45d64fedd071" />
-
-**CALCULATION:**
-
-<img width="1026" height="1501" alt="image" src="https://github.com/user-attachments/assets/05da75e9-4f77-4ad8-9c77-fe48626e537f" />
-
 **PROCEDURE:**
 
 1.	Make the connections as per the Circuit Diagram:1
@@ -82,10 +74,23 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
+**TABULAR COLUMN:**
+
+<img width="847" height="1500" alt="image" src="https://github.com/user-attachments/assets/c12c6b1d-f937-4042-a7f2-45d64fedd071" />
+
+**CALCULATION:**
+
+<img width="1026" height="1501" alt="image" src="https://github.com/user-attachments/assets/05da75e9-4f77-4ad8-9c77-fe48626e537f" />
+
 **MARKS SPLIT-UP:**
 
 <img width="1475" height="1300" alt="image" src="https://github.com/user-attachments/assets/7ca21974-3215-4614-b08f-bf99361600f8" />
 
 **RESULT:**
+
+Thus Thevenin's and Norton's theorem is verified practically and theoretically
+
+
+
 
 Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
